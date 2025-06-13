@@ -1,0 +1,64 @@
+# Compiled binaries
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+logs/
+
+# MongoDB (se você salvar arquivos localmente)
+dump/
+*.nsf
+*.wt
+*.wtlog
+
+# RabbitMQ (se rodar via Docker volume local)
+rabbitmq-data/
+
+# Docker
+docker-compose.override.yml
+*.env
+.env.*
+
+# Publish output
+publish/
+out/
+dist/
+
+# Test Results
+TestResults/
+
+# Others
+*.db
+*.sqlite
+*.mdf
+*.ldf
+*.bak
+
+# Local secrets (opcional)
+secrets.json
+appsettings.Development.json

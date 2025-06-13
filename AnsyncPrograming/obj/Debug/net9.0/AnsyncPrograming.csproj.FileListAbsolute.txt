@@ -1,0 +1,14 @@
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\bin\Debug\net9.0\AnsyncPrograming.exe
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\bin\Debug\net9.0\AnsyncPrograming.deps.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\bin\Debug\net9.0\AnsyncPrograming.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\bin\Debug\net9.0\AnsyncPrograming.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\bin\Debug\net9.0\AnsyncPrograming.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\AnsyncPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\AnsyncPrograming.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\AnsyncPrograming.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\AnsyncPrograming.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\AnsyncPrograming.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\refint\AnsyncPrograming.dll
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\AnsyncPrograming.pdb
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\AnsyncPrograming.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\PROJECTS\IngoProject\AnsyncPrograming\obj\Debug\net9.0\ref\AnsyncPrograming.dll
